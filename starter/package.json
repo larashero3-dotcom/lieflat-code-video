@@ -1,0 +1,35 @@
+{
+  "name": "lieflat-code-video-starter",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "check": "tsx scripts/check.ts",
+    "events": "tsx scripts/export-events.ts",
+    "still": "remotion still src/index.ts Film out/still.png --frame=180 --scale=0.5 --props=preview-props.json",
+    "preview": "remotion render src/index.ts Film out/preview.mp4 --scale=0.5 --props=preview-props.json --codec=h264 --crf=23",
+    "render": "remotion render src/index.ts Film out/film.mp4 --codec=h264 --crf=17",
+    "test": "tsx --test scripts/*.test.ts"
+  },
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@fontsource/jetbrains-mono": "5.3.0",
+    "@remotion/cli": "4.0.538",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "18.3.12",
+    "tsx": "4.23.15",
+    "typescript": "5.6.3"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "overrides": {
+    "zod": "4.6.7"
+  }
+}
