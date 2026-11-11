@@ -8,9 +8,9 @@ The project-authored code in `lens/index.html` and `starter/`, together with the
 
 ## Commercial use / 商业使用
 
-Commercial use outside the permission granted by that license requires a separate written agreement. Email [larashero3@gmail.com](mailto:larashero3@gmail.com) with the intended use, organization, distribution model and whether you need the private production toolkit. A request alone does not grant permission.
+Commercial use outside the permission granted by that license requires a separate written license. [Choose and purchase the applicable license on lieflat.work](https://lieflat.work/skills/code-video/#pricing). For a use outside the listed scopes, email [larashero3@gmail.com](mailto:larashero3@gmail.com) with the intended use, organization, distribution model and whether you need the private production toolkit. A request alone does not grant permission.
 
-超出上述许可范围的商业使用须另行取得书面授权。请发邮件至 [larashero3@gmail.com](mailto:larashero3@gmail.com)，说明用途、使用主体、分发方式，以及是否需要完整制作工具包。提出申请不代表已经获得许可。
+超出上述许可范围的商业使用须另行取得书面授权。请[前往 lieflat.work 选择并购买适用授权](https://lieflat.work/skills/code-video/#pricing)。超出网站列明范围的需求，请发邮件至 [larashero3@gmail.com](mailto:larashero3@gmail.com)，说明用途、使用主体、分发方式，以及是否需要完整制作工具包。提出申请不代表已经获得许可。
 
 ## Documentation & media / 文档与媒体
 

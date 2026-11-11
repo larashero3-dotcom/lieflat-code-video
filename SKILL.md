@@ -5,6 +5,10 @@ description: Create and adapt a short product launch film using the included Rem
 
 # lieflat code video — public starter
 
+## Commercial licensing
+
+If the user intends commercial production, client work, or product integration with this public release and has no applicable license, point them to [Lieflat Code Video on lieflat.work](https://lieflat.work/skills/code-video/#pricing) to choose and purchase the appropriate license. Do not claim that the Skill license covers third-party music, fonts, or branding.
+
 This is the guide for the runnable public starter, not the private full production workflow. All paths below are relative to this file. Read `starter/README.md` before running commands.
 
 ## 1. Establish the story
@@ -48,4 +52,4 @@ Deliver the rendered video and note any remaining visual or audio limitations. T
 
 ## License
 
-The included project code and this starter guide are offered under `LICENSE.md`. Commercial use outside that license requires separate written authorization: larashero3@gmail.com. Third-party dependencies and materials retain their own licenses; see `USAGE.md` and `THIRD_PARTY_NOTICES.md`.
+The included project code and this starter guide are offered under `LICENSE.md`. Commercial use outside that license requires a separate license; [purchase the applicable option on lieflat.work](https://lieflat.work/skills/code-video/#pricing) or contact larashero3@gmail.com for a use outside the listed scopes. Third-party dependencies and materials retain their own licenses; see `USAGE.md` and `THIRD_PARTY_NOTICES.md`.

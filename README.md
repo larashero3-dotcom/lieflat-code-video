@@ -12,6 +12,8 @@ A Claude Code skill built with Remotion + React, bringing camera movement, produ
 
 </div>
 
+**Website & commercial licenses:** [lieflat.work · Lieflat Code Video](https://lieflat.work/skills/code-video/)
+
 [![Watch the lieflat code video showreel](assets/showreel.gif)](assets/showreel.mp4)
 
 **[▶ Watch the full showreel · 55 seconds, with sound](assets/showreel.mp4)**
@@ -152,10 +154,10 @@ This release includes the code needed to produce the standalone starter example.
 
 ## Noncommercial use & commercial licensing
 
-The Lens demonstration code, starter project and production guide are available under the **[PolyForm Noncommercial License 1.0.0](LICENSE.md)**. Personal learning, experimentation and other permitted noncommercial uses are welcome. Commercial use outside that license requires a separate written agreement with the project maintainer.
+The Lens demonstration code, starter project and production guide are available under the **[PolyForm Noncommercial License 1.0.0](LICENSE.md)**. Personal learning, experimentation and other permitted noncommercial uses are welcome. Commercial use outside that license requires a separate written license; see the options on lieflat.work below.
 
 The showreel and images are provided for viewing and reference. The software license does not grant reuse rights to the music, fonts, product branding or other third-party material shown in them. See [usage and licensing](USAGE.md) for the scope.
 
-For commercial production, client work or integration into a paid product or service, contact **[larashero3@gmail.com](mailto:larashero3@gmail.com)** to discuss authorization.
+For commercial production, client work or integration into a paid product or service, [choose and purchase the appropriate license on lieflat.work](https://lieflat.work/skills/code-video/#pricing). For a use outside the listed license scopes, contact **[larashero3@gmail.com](mailto:larashero3@gmail.com)**.
 
 This project is described as a **noncommercial public preview / source-available release**, rather than OSI open source: the [Open Source Definition](https://opensource.org/osd) requires permission for commercial use.

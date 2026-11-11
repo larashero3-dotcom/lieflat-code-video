@@ -12,6 +12,8 @@
 
 </div>
 
+**官网与商业授权：** [lieflat.work · Lieflat Code Video](https://lieflat.work/skills/code-video/)
+
 [![点击观看 lieflat code video 作品合集](assets/showreel.gif)](assets/showreel.mp4)
 
 **[▶ 观看完整作品合集 · 约 55 秒，含声音](assets/showreel.mp4)**
@@ -152,10 +154,10 @@ USAGE.md               使用范围与商业授权
 
 ## 非商业使用与商业授权
 
-Lens 演示代码、起步工程及制作指南采用 **[PolyForm Noncommercial License 1.0.0](LICENSE.md)**。欢迎个人学习、实验，以及许可允许的其他非商业用途。超出该许可范围的商业使用，需要另行取得项目维护者的书面授权。
+Lens 演示代码、起步工程及制作指南采用 **[PolyForm Noncommercial License 1.0.0](LICENSE.md)**。欢迎个人学习、实验，以及许可允许的其他非商业用途。超出该许可范围的商业使用，需要另行取得书面授权；购买方式见下方官网链接。
 
 视频和图片用于观看与参考；软件许可不授予其中音乐、字体、产品品牌及其他第三方素材的复用权。具体范围见[使用与授权说明](USAGE.md)。
 
-如需用于商业宣传片、客户项目，或集成到收费产品与服务中，请联系 **[larashero3@gmail.com](mailto:larashero3@gmail.com)** 洽谈授权。
+如需用于商业宣传片、客户项目，或集成到收费产品与服务中，请[前往 lieflat.work 选择并购买适用授权](https://lieflat.work/skills/code-video/#pricing)。超出网站列明授权范围的需求，可联系 **[larashero3@gmail.com](mailto:larashero3@gmail.com)**。
 
 因此，本项目使用“**非商业公开版 / 部分源码可见**”的表述。[OSI 开源定义](https://opensource.org/osd)要求允许商业使用，和本项目的授权目标不同。
